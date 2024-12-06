@@ -1,0 +1,89 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "context": "The Great Wall of China was built over many centuries by different Chinese dynasties. The most famous sections were built during the Ming Dynasty (1368-1644). The main purpose of the wall was to protect Chinese territories from nomadic invasions. Besides being a military defense system, it also served as a border control point, regulating trade and collecting taxes on goods transported along the Silk Road.",
+            "question": "What was the primary purpose of building the Great Wall of China?",
+            "options": [
+                "To create a tourist attraction",
+                "To protect from nomadic invasions",
+                "To collect taxes",
+                "To mark territorial boundaries"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q2",
+            "context": "Honey bees live in large groups called colonies. Each colony has three types of bees: the queen, workers, and drones. The queen's main job is to lay eggs. Worker bees are all female and do most of the colony's work, including collecting nectar, making honey, and taking care of young bees. Drones are male bees whose only job is to mate with queens from other colonies.",
+            "question": "Which type of bee does most of the work in a colony?",
+            "options": [
+                "The queen bee",
+                "The drone bees",
+                "The worker bees",
+                "All bees equally"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q3",
+            "context": "Recycling is the process of converting waste materials into new materials and objects. The most commonly recycled materials are paper, glass, plastic, and metal. Recycling helps reduce pollution, save energy, and conserve natural resources. For example, recycling one aluminum can saves enough energy to run a TV for three hours. Many cities now have dedicated recycling programs to make it easier for residents to recycle.",
+            "question": "According to the passage, what can be saved by recycling one aluminum can?",
+            "options": [
+                "Enough energy to run a TV for three hours",
+                "Enough water to fill a bathtub",
+                "Enough paper to make a book",
+                "Enough plastic to make a bottle"
+            ],
+            "correct_answers": [
+                "A"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q4",
+            "context": "The human brain is made up of approximately 86 billion neurons. Despite making up only 2% of the body's weight, it uses 20% of the body's energy. The brain is responsible for controlling thoughts, memory, speech, movement, and organ functions. It receives information through five senses: sight, smell, touch, taste, and hearing. The brain processes all this information to help us understand and respond to the world around us.",
+            "question": "How much of the body's energy does the brain use?",
+            "options": [
+                "2%",
+                "10%",
+                "20%",
+                "86%"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q5",
+            "context": "Photography was invented in the 1830s. The first permanent photograph was created by Joseph Nicéphore Niépce in 1827. However, these early photographs took several hours to expose and the results were very crude. In 1839, Louis Daguerre developed a more practical method called the daguerreotype, which only required a few minutes of exposure time. This innovation made photography much more practical and popular.",
+            "question": "Who created the first permanent photograph?",
+            "options": [
+                "Louis Daguerre",
+                "Joseph Nicéphore Niépce",
+                "Thomas Edison",
+                "George Eastman"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        }
+    ]
+}

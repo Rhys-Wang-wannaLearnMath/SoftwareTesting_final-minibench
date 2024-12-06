@@ -1,0 +1,43 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "question": "Which of the following are planets in our solar system that have rings? (Select 2)",
+            "options": [
+                "Saturn",
+                "Mars",
+                "Uranus",
+                "Mercury",
+                "Venus"
+            ],
+            "correct_answers": [
+                "A",
+                "C"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 2,
+            "difficulty": "easy",
+            "category": "astronomy"
+        },
+        {
+            "id": "q2",
+            "question": "Which of these animals are marsupials? (Select 3)",
+            "options": [
+                "Kangaroo",
+                "Koala",
+                "Wombat",
+                "Platypus",
+                "Tasmanian Devil"
+            ],
+            "correct_answers": [
+                "A",
+                "B",
+                "C"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 3,
+            "difficulty": "medium",
+            "category": "biology"
+        }
+    ]
+}

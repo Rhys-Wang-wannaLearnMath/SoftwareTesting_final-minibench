@@ -1,0 +1,100 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "question": "What is the main function of red blood cells in the human body?",
+            "options": [
+                "Fight infections",
+                "Carry oxygen",
+                "Produce hormones",
+                "Filter blood"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "biology"
+        },
+        {
+            "id": "q2",
+            "question": "Who wrote 'Romeo and Juliet'?",
+            "options": [
+                "Charles Dickens",
+                "Jane Austen",
+                "William Shakespeare",
+                "Mark Twain"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "literature"
+        },
+        {
+            "id": "q3",
+            "question": "What is the chemical formula for water?",
+            "options": [
+                "CO2",
+                "H2O",
+                "O2",
+                "NaCl"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "chemistry"
+        },
+        {
+            "id": "q4",
+            "question": "Which planet is known as the 'Red Planet'?",
+            "options": [
+                "Venus",
+                "Jupiter",
+                "Mars",
+                "Saturn"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "astronomy"
+        },
+        {
+            "id": "q5",
+            "question": "What is the primary purpose of photosynthesis in plants?",
+            "options": [
+                "To produce water",
+                "To produce food",
+                "To absorb minerals",
+                "To release oxygen only"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "medium",
+            "category": "biology"
+        },
+        {
+            "id": "q6",
+            "question": "Which invention is credited to Alexander Graham Bell?",
+            "options": [
+                "Light bulb",
+                "Telephone",
+                "Television",
+                "Radio"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "history"
+        }
+    ]
+}

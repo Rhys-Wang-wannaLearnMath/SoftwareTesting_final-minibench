@@ -1,0 +1,94 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "context": "Just received my new phone and I'm absolutely thrilled! 📱✨ The camera quality is amazing, and the battery life is incredible. Setup was super easy too. The only small issue is that the charger isn't included in the box, which is a bit annoying. But overall, definitely worth the investment! 🎉",
+            "question": "Analyze the sentiment expressed in this product review, including the overall tone and any mixed feelings.",
+            "reference": {
+                "essential_keywords": [
+                    "positive overall",
+                    "thrilled",
+                    "worth investment",
+                    "minor complaint"
+                ],
+                "bonus_keywords": [
+                    "camera quality",
+                    "battery life",
+                    "charger issue",
+                    "emoji usage"
+                ],
+                "detail_points": [
+                    "predominantly positive tone",
+                    "specific positive features",
+                    "single negative aspect",
+                    "emotional expression"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "easy",
+            "category": "sentiment_analysis",
+            "min_length": 50,
+            "max_length": 150
+        },
+        {
+            "id": "q2",
+            "context": "The restaurant experience was a real mixed bag. The ambiance was lovely and the appetizers were fantastic. However, the main course was cold when it arrived, and it took 45 minutes to come. The manager apologized and offered us free dessert, which was nice, but the evening was already spoiled. The prices were also quite high for what we got.",
+            "question": "Evaluate the emotional tone of this restaurant review, discussing both positive and negative aspects.",
+            "reference": {
+                "essential_keywords": [
+                    "mixed feelings",
+                    "positive aspects",
+                    "disappointment",
+                    "compensation attempt"
+                ],
+                "bonus_keywords": [
+                    "ambiance",
+                    "service issues",
+                    "price concerns",
+                    "partial satisfaction"
+                ],
+                "detail_points": [
+                    "balanced positive/negative",
+                    "specific complaints",
+                    "attempted resolution",
+                    "value assessment"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "medium",
+            "category": "sentiment_analysis",
+            "min_length": 50,
+            "max_length": 200
+        },
+        {
+            "id": "q3",
+            "context": "After 3 years at this company, I've decided to move on. While I've learned a lot and worked with some amazing colleagues who became friends, the lack of growth opportunities and constant overtime have taken their toll. Thank you for all the experiences, but it's time for a new chapter. Feeling both excited and nostalgic about this change. 💫",
+            "question": "Analyze the emotional complexity in this resignation announcement, discussing the different sentiments expressed.",
+            "reference": {
+                "essential_keywords": [
+                    "mixed emotions",
+                    "gratitude",
+                    "frustration",
+                    "anticipation"
+                ],
+                "bonus_keywords": [
+                    "professional growth",
+                    "work relationships",
+                    "work-life balance",
+                    "career transition"
+                ],
+                "detail_points": [
+                    "positive experiences",
+                    "workplace challenges",
+                    "emotional transition",
+                    "professional decision"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "medium",
+            "category": "sentiment_analysis",
+            "min_length": 50,
+            "max_length": 200
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "question": "What sentiment is expressed in this social media post: 'Just got promoted at work! Can't wait to start my new role and take on new challenges! 🎉'",
+            "options": [
+                "Negative",
+                "Positive",
+                "Neutral",
+                "Mixed"
+            ],
+            "correct_answers": [
+                "B"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "sentiment_analysis"
+        },
+        {
+            "id": "q2",
+            "question": "Analyze the sentiment in this restaurant review: 'The food was okay, nothing special. Prices were reasonable and the service was average.'",
+            "options": [
+                "Positive",
+                "Negative",
+                "Neutral",
+                "Mixed"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "sentiment_analysis"
+        },
+        {
+            "id": "q3",
+            "question": "What is the emotional tone in this product review: 'The camera quality is amazing and battery life is great! But the price is too high and the customer service is disappointing.'",
+            "options": [
+                "Entirely positive",
+                "Entirely negative",
+                "Mixed/balanced",
+                "Neutral"
+            ],
+            "correct_answers": [
+                "C"
+            ],
+            "type": "single_choice",
+            "difficulty": "medium",
+            "category": "sentiment_analysis"
+        },
+        {
+            "id": "q4",
+            "question": "Identify the sentiment in this feedback: 'I've been using this app for years and never had any problems. The latest update makes everything even better!'",
+            "options": [
+                "Strongly positive",
+                "Mildly positive",
+                "Neutral",
+                "Mixed"
+            ],
+            "correct_answers": [
+                "A"
+            ],
+            "type": "single_choice",
+            "difficulty": "easy",
+            "category": "sentiment_analysis"
+        },
+        {
+            "id": "q5",
+            "question": "What is the sentiment in this movie review: 'Despite the beautiful cinematography, the plot was confusing and the acting was mediocre. I expected more from such a big-budget film.'",
+            "options": [
+                "Positive",
+                "Negative",
+                "Neutral",
+                "Mixed with negative lean"
+            ],
+            "correct_answers": [
+                "D"
+            ],
+            "type": "single_choice",
+            "difficulty": "medium",
+            "category": "sentiment_analysis"
+        }
+    ]
+}

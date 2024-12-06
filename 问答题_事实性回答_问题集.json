@@ -1,0 +1,64 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "question": "Explain how photosynthesis works in plants and why it is important for life on Earth.",
+            "reference": {
+                "essential_keywords": [
+                    "sunlight",
+                    "carbon dioxide",
+                    "water",
+                    "glucose",
+                    "oxygen"
+                ],
+                "bonus_keywords": [
+                    "chlorophyll",
+                    "energy conversion",
+                    "cellular respiration",
+                    "food chain"
+                ],
+                "detail_points": [
+                    "light energy to chemical energy",
+                    "carbon dioxide absorption",
+                    "oxygen release",
+                    "food production"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "medium",
+            "category": "biology",
+            "min_length": 50,
+            "max_length": 200
+        },
+        {
+            "id": "q2",
+            "question": "Describe how the water cycle works and its importance for Earth's climate system.",
+            "reference": {
+                "essential_keywords": [
+                    "evaporation",
+                    "condensation",
+                    "precipitation",
+                    "water vapor",
+                    "clouds"
+                ],
+                "bonus_keywords": [
+                    "solar energy",
+                    "temperature",
+                    "humidity",
+                    "groundwater"
+                ],
+                "detail_points": [
+                    "ocean to atmosphere",
+                    "cloud formation",
+                    "rainfall process",
+                    "climate regulation"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "medium",
+            "category": "earth_science",
+            "min_length": 50,
+            "max_length": 200
+        }
+    ]
+}

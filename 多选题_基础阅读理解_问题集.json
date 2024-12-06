@@ -1,0 +1,65 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "context": "The Amazon rainforest is the world's largest tropical rainforest. It covers much of northwestern Brazil and extends into neighboring countries. The Amazon contains millions of species of plants, insects, and animals. Many of these species are unique to this region. The forest also plays a crucial role in regulating Earth's oxygen and carbon cycles. Additionally, it is home to many indigenous peoples who have lived there for thousands of years.",
+            "question": "Based on the passage, which of the following are true about the Amazon rainforest? (Select 2)",
+            "options": [
+                "It contains millions of species",
+                "It is located entirely within Brazil",
+                "It helps regulate Earth's oxygen cycle",
+                "It has no human inhabitants",
+                "It is the world's smallest rainforest"
+            ],
+            "correct_answers": [
+                "A",
+                "C"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 2,
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q2",
+            "context": "The Wright brothers, Orville and Wilbur, made their first successful flight on December 17, 1903, in Kitty Hawk, North Carolina. Their aircraft, the Wright Flyer, stayed in the air for 12 seconds and covered a distance of 120 feet. On that historic day, they made four flights in total. The longest flight lasted 59 seconds and covered 852 feet. Both brothers were skilled mechanics who owned a bicycle repair shop in Dayton, Ohio.",
+            "question": "Which statements are supported by the passage? (Select 3)",
+            "options": [
+                "The Wright brothers were bicycle mechanics",
+                "Their first flight was in Ohio",
+                "They made multiple flights in one day",
+                "The Wright Flyer flew for 12 seconds",
+                "They were the last people to fly an airplane"
+            ],
+            "correct_answers": [
+                "A",
+                "C",
+                "D"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 3,
+            "difficulty": "medium",
+            "category": "reading_comprehension"
+        },
+        {
+            "id": "q3",
+            "context": "Renewable energy sources are becoming increasingly important in fighting climate change. Solar power harnesses energy from the sun using photovoltaic panels. Wind turbines convert the kinetic energy of moving air into electricity. Hydroelectric power generates electricity by using the force of falling or flowing water. These energy sources produce minimal pollution and can be naturally replenished, unlike fossil fuels which are finite and release greenhouse gases.",
+            "question": "According to the passage, which are characteristics of renewable energy sources? (Select 2)",
+            "options": [
+                "They release greenhouse gases",
+                "They can be naturally replenished",
+                "They are more expensive than oil",
+                "They produce minimal pollution",
+                "They are only available in summer"
+            ],
+            "correct_answers": [
+                "B",
+                "D"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 2,
+            "difficulty": "easy",
+            "category": "reading_comprehension"
+        }
+    ]
+}

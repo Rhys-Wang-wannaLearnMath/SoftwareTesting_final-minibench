@@ -1,0 +1,43 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "question": "In the review: 'The hotel location was perfect and the rooms were spacious, but the staff was rude and the breakfast was terrible. At least the beds were comfortable.', which emotions/sentiments are present? (Select 3)",
+            "options": [
+                "Satisfaction with location",
+                "Disappointment with service",
+                "Appreciation of comfort",
+                "Excitement about activities",
+                "Concern about safety"
+            ],
+            "correct_answers": [
+                "A",
+                "B",
+                "C"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 3,
+            "difficulty": "medium",
+            "category": "sentiment_analysis"
+        },
+        {
+            "id": "q2",
+            "question": "In the social media post: '😊 Just finished my final exams! So tired but proud of all the hard work I put in these past weeks 📚', which emotions are expressed? (Select 2)",
+            "options": [
+                "Pride",
+                "Fatigue",
+                "Anger",
+                "Anxiety",
+                "Regret"
+            ],
+            "correct_answers": [
+                "A",
+                "B"
+            ],
+            "type": "multiple_choice",
+            "num_selections": 2,
+            "difficulty": "easy",
+            "category": "sentiment_analysis"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "test_samples": [
+        {
+            "id": "q1",
+            "context": "Electric vehicles (EVs) have gained popularity in recent years as a more environmentally friendly alternative to traditional gasoline-powered cars. EVs run on rechargeable batteries instead of gasoline and produce zero direct emissions. While they have many advantages, including lower operating costs and reduced environmental impact, they also face challenges such as limited driving range and longer recharging times compared to refueling conventional vehicles. The development of better batteries and charging infrastructure is ongoing to address these limitations.",
+            "question": "Based on the passage, explain the main advantages and challenges of electric vehicles.",
+            "reference": {
+                "essential_keywords": [
+                    "environmentally friendly",
+                    "zero emissions",
+                    "rechargeable batteries",
+                    "operating costs"
+                ],
+                "bonus_keywords": [
+                    "charging infrastructure",
+                    "driving range",
+                    "recharging time",
+                    "battery development"
+                ],
+                "detail_points": [
+                    "comparison with gasoline cars",
+                    "environmental benefits",
+                    "current limitations",
+                    "ongoing improvements"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "easy",
+            "category": "reading_comprehension",
+            "min_length": 50,
+            "max_length": 150
+        },
+        {
+            "id": "q2",
+            "context": "The Great Barrier Reef, located off the coast of Australia, is the world's largest coral reef system. It is home to thousands of species of marine life, including fish, mollusks, and various types of coral. The reef plays a crucial role in marine ecosystems and also supports tourism and fishing industries. However, in recent decades, the reef has faced significant threats from climate change, ocean acidification, and pollution. Rising ocean temperatures have led to coral bleaching events, where corals expel the algae living in their tissues, causing them to turn white and potentially die.",
+            "question": "According to the passage, what is the Great Barrier Reef and what challenges does it face?",
+            "reference": {
+                "essential_keywords": [
+                    "coral reef system",
+                    "marine life",
+                    "climate change",
+                    "coral bleaching"
+                ],
+                "bonus_keywords": [
+                    "ocean acidification",
+                    "tourism",
+                    "fishing industry",
+                    "ecosystem"
+                ],
+                "detail_points": [
+                    "location in Australia",
+                    "species diversity",
+                    "environmental threats",
+                    "economic importance"
+                ]
+            },
+            "type": "qa",
+            "difficulty": "medium",
+            "category": "reading_comprehension",
+            "min_length": 50,
+            "max_length": 200
+        }
+    ]
+}
