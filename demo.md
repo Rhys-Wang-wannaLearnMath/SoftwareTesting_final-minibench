@@ -1,4 +1,4 @@
-## 执行测试
+## 执行qwen系列的测试
 ```bash
 (1)qwen_cuda是candle项目编译得来，存放在对应文件夹：
 python3 autoTest.py --name qwen_cuda --model 0.5b
