@@ -1,7 +1,7 @@
 # SoftwareTesting_final-minibench
 This is my final project for Software Testing, a sse student from sysu.
 
-执行步骤：
+执行步骤(具体可以参考demo.md)：
 
 （1）python3 autoTest.py --name x --model(option) y
 
